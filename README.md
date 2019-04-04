@@ -2,12 +2,16 @@
 _A collection of useful UBNT scripts._
 
 ## [unms-ucrm](https://github.com/mvqn/ubnt-scripts/tree/master/unms-ucrm)
-An installation script for installing UNMS and UCRM on the same host, including a reverse proxy, port forwarding and certificates.
+An installation script for installing UNMS and UCRM on the same host, including a reverse proxy, port forwarding and
+certificates.
 
+## [unms-ucrm-multi](https://github.com/mvqn/ubnt-scripts/tree/master/unms-ucrm-multi)
+An installation script for installing UNMS and UCRM on the same host, but instead isolating both services to 
+independent IP addresses available on the host.
 
 #### Warnings
 
-- **IMPORTANT**: Please use these script at your own risk, I am not responsible for any issues that they may cause.  As
+- **IMPORTANT**: Please use these scripts at your own risk, I am not responsible for any issues that they may cause.  As
 with most other scripts of this nature, always test it in a non-production environment first.  
 
 #### Contact Me
